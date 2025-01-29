@@ -30,6 +30,6 @@ I am a biologist working on Systematic Biology and Evolution in Honolulu. My res
 
 * Professor, [School of Life Sciences](https://manoa.hawaii.edu/lifesciences)
 * Chair, [Ecology, Evolution, and Conservation Biology](https://www.hawaii.edu/eecb) Graduate Program
-* Editor-In-Chief Elect, [*Systematic Biology*](https://academic.oup.com/sysbio)
+* Editor-In-Chief Elect, [Systematic Biology](https://academic.oup.com/sysbio)
 * Research Associate, [Natural History Museum of Los Angeles County](https://nhm.org/research-collections/departments/herpetology)
 
