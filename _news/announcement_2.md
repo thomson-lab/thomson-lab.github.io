@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started working as Editor-in-Chief Elect for *Systematic Biology*
+I started my term as Editor-in-Chief Elect for *Systematic Biology*

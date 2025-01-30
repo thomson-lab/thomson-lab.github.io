@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 #### Please see [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=_iKjkDUAAAAJ&view_op=list_works) for publications.
-#### The freely available pdf of *California Amphibian and Reptile Species of Special Concern** is available [here](https://wildlife.ca.gov/Conservation/SSC/Amphibians-Reptiles).
+#### The pdf of *California Amphibian and Reptile Species of Special Concern* is freely available [here](https://wildlife.ca.gov/Conservation/SSC/Amphibians-Reptiles).
 
 <div class="container">
   <div class="row">
