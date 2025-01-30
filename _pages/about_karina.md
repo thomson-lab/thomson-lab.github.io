@@ -6,7 +6,7 @@ subtitle: PhD Student, <a href="https://manoa.hawaii.edu/lifesciences/">School o
 
 profile:
   align: right
-  image: karina.jpg
+  image: placeholder.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>karinam@hawaii.edu</p>
