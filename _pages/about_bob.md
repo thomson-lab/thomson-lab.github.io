@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Bob Thomson
 permalink: /people/bob
 subtitle: Professor, <a href="https://manoa.hawaii.edu/lifesciences/">School of Life Sciences</a> at <a href="https://manoa.hawaii.edu">University of Hawaiʻi</a>
 

@@ -13,7 +13,7 @@ nav_order: 4
 
 {% include bib_search.liquid %}
 
-Google Scholar
+Google Scholar, cover images
 
 <div class="publications">
 
