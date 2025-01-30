@@ -13,7 +13,7 @@ nav_order: 4
 
 {% include bib_search.liquid %}
 
-[Google Scholar Profile](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=_iKjkDUAAAAJ&view_op=list_works)\
+# [Google Scholar Profile](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=_iKjkDUAAAAJ&view_op=list_works)\
 [California Amphibian and Reptile Species of Special Concern](https://wildlife.ca.gov/Conservation/SSC/Amphibians-Reptiles) Book\
 
 <div class="row">
