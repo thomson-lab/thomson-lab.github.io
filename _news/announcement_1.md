@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Former PhD student Val Alvarez started a new job with the Florida Fish and Wildlife Conservation Commission.
+Recent PhD graduate Val Alvarez started a new job with the Florida Fish and Wildlife Conservation Commission.
