@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Karina Moreno
-permalink: /karina/
+permalink: /people/karina
 subtitle: PhD Student, <a href="https://manoa.hawaii.edu/lifesciences/">School of Life Sciences</a> at <a href="https://manoa.hawaii.edu">University of Hawaiʻi</a>
 
 profile:
@@ -25,6 +25,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-PhD student in Zoology, specializing in Ecology, Evolution, and Conservation Biology. 2023 to Present.
-MS in Biological Sciences 2020. California State Polytechnic University, Pomona.
-
+* PhD student in Zoology, specializing in Ecology, Evolution, and Conservation Biology. 2023 to Present.
+* MS in Biological Sciences 2020. California State Polytechnic University, Pomona.

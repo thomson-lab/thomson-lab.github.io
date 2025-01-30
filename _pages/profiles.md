@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: prof_pic.jpg
-    content: about_bob_.md
+    content: about_bob.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>thomson@hawaii.edu</p>
