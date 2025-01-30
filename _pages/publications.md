@@ -13,17 +13,18 @@ nav_order: 4
 
 {% include bib_search.liquid %}
 
-[Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=_iKjkDUAAAAJ&view_op=list_works)
+[Google Scholar Profile](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=_iKjkDUAAAAJ&view_op=list_works)\
+[California Amphibian and Reptile Species of Special Concern](https://wildlife.ca.gov/Conservation/SSC/Amphibians-Reptiles) Book\
 
 <div class="row">
-  <div class="col">
-    {% include figure.liquid path="assets/img/ARSSC.jpg" title="Thomson et al. 2015" class="img-fluid" %}
-  </div>
   <div class="col">
     {% include figure.liquid path="assets/img/syst_biol_cover.jpg" title="Thomson et al. 2010" class="img-fluid" %}
   </div>
   <div class="col">
-    {% include figure.liquid path="assets/img/m_sysbio_69_4cover.jpg" title="Campillo et al. 2020" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/m_sysbio_69_4cover.jpg" title="Campillo et al. 2020" class="img-fluid" %}
+  </div>
+  <div class="col">
+    {% include figure.liquid path="assets/img/ARSSC.jpg" title="Thomson et al. 2015" class="img-fluid" %}
   </div>
 </div>
 
