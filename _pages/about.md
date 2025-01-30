@@ -12,7 +12,7 @@ profile:
     <p><a href="mailto:thomsonr@hawaii.edu">thomsonr@hawaii.edu</a></p>
     <p>808.956.6476</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:

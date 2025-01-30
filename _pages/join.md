@@ -2,7 +2,7 @@
 layout: page
 permalink: /join/
 title: Join the Lab
-description: blank
+description: Information for prospective lab members
 nav: true
 nav_order: 7
 ---

@@ -14,7 +14,7 @@ nav_order: 3
 #### Alumni
 ##### Postdocs
 Anthony Barley. Postdoctoral Researcher. Current position: Assistant Professor, Arizona State University - West Campus.\
-Sean Harrington. Postdoctoral Researcher. Current position: Research Scientist, University of Wyoming.\
+Sean Harrington. Postdoctoral Researcher. Current position: Research Scientist, University of Wyoming.
 
 ##### Graduate Students
 Valentina Alvarez. PhD 2024. after UH: Florida Fish and Wildlife Conservation Commission.\
@@ -22,7 +22,7 @@ Luke Campillo. PhD 2022. after UH: postdoctoral researcher at USGS.\
 Caroline Dong. MS 2015. after UH: PhD at University of Melbourne, now Assistant Professor at Grinnell College.\
 Natalie Myers. MS 2023. after UH: Communications and Marketing Coordinator, [Pacific Birds](https://pacificbirds.org), Habitat Joint Venture.\
 Emilie Richards. MS 2016. after UH: PhD at University of California, Berkeley, postdoctoral researcher at Univ. of Minnesota.\
-Van Wishingrad. PhD 2021. after UH: Hawaii Institute of Marine Biology postdoctoral researcher.\
+Van Wishingrad. PhD 2021. after UH: Hawaii Institute of Marine Biology postdoctoral researcher.
 
 ##### Undergraduate Students
 Hana Blatter. UH Biology 2014\
@@ -35,7 +35,7 @@ Evan Padro. UH Zoology 2015\
 Riley Parks. UH Honors Biology 2021\
 Melissa Seymour. UH Zoology 2018\
 Maya Shaulsky. UH Biology 2018\
-Preston Varley. UH Anthropology 2016\
+Preston Varley. UH Anthropology 2016
 
 #### Visitors
 [Luke Mahler](https://mahlerlab.com). University of Toronto. Sabbatical visitor spring 2024.\
