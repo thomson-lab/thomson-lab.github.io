@@ -25,8 +25,6 @@ Graduate level working group on statistical methods in conservation biology. Top
 #### ZOOL 691b Seminar in Speciation and Systematics
 Selected readings and discussions in Systematic Biology. 1 credit. Offered periodically.
 
-
-
 ### Workshops
 #### Introduction to Phylogenomics
 [2024 edition](https://www.transmittingscience.com/courses/evolution/introduction-to-phylogenomics/)\
