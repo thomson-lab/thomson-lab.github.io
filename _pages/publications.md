@@ -15,14 +15,14 @@ nav_order: 4
 
 [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=_iKjkDUAAAAJ&view_op=list_works)
 
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
+<div class="row">
+  <div class="col">
     {% include figure.liquid path="assets/img/ARSSC.jpg" title="Thomson et al. 2015" class="img-fluid" %}
   </div>
-  <div class="col-sm-8 mt-3 mt-md-0">
+  <div class="col">
     {% include figure.liquid path="assets/img/syst_biol_cover.jpg" title="Thomson et al. 2010" class="img-fluid" %}
   </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
+  <div class="col">
     {% include figure.liquid path="assets/img/m_sysbio_69_4cover.jpg" title="Campillo et al. 2020" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
