@@ -16,19 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-people",
+          title: "people",
+          description: "members of the lab or group",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
+            window.location.href = "/people/";
           },
         },{id: "nav-cv",
           title: "cv",
@@ -39,40 +32,19 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
+        },{id: "nav-join-the-lab",
+          title: "join the lab",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/people/";
+            window.location.href = "/join/";
           },
-        },{id: "dropdown-publications",
-              title: "publications",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-projects",
-              title: "projects",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-a-post-with-image-galleries",
+        },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
       
@@ -402,7 +374,10 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-i-started-working-as-editor-in-chief-elect-for-systematic-biology",
+    },{id: "news-jeremy-brown-lsu-and-i-began-offering-the-third-installment-of-our-introduction-to-phylogenomics-workshop",
+          title: 'Jeremy Brown (LSU) and I began offering the third installment of our Introduction...',
+          description: "",
+          section: "News",},{id: "news-i-started-working-as-editor-in-chief-elect-for-systematic-biology",
           title: 'I started working as Editor-in-Chief Elect for Systematic Biology',
           description: "",
           section: "News",},{id: "news-former-phd-student-val-alvarez-started-a-new-job-with-the-florida-fish-and-wildlife-conservation-commission",
