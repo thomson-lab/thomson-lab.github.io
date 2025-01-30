@@ -3,10 +3,10 @@
   contents:
     - name: Full Name
       value: Robert C. Thomson
-    - name: Date of Birth
-      value: 31 March 1982
-    - name: Languages
-      value: English
+    - name: email
+      value: thomsonr@hawaii.edu
+    - name: phone
+      value: 808.956.6476
 
 - title: Education
   type: time_table
@@ -28,19 +28,18 @@
     - title: Professor
       institution: School of Life Sciences, University of Hawaiʻi at Mānoa
       year: 2022 - 
-        
+      
+    - title: Editor-in-Chief Elect
+      institution: Systematic Biology
+      year: 2025 -   
+           
     - title: Chair
       institution: Ecology, Evolution, and Conservation Biology Graduate Program, University of Hawaiʻi at Mānoa
       year: 2020 - 
 
-    - title: Editor-in-Chief Elect
-      institution: Systematic Biology
-      year: 2025 - 
-
     - title: Research Associate in Herpetology
       institution: Natural History Museum of Los Angeles County
       year: 2022 - 
-      description:
 
     - title: Associate Director for Research
       institution: School of Life Sciences, University of Hawaiʻi at Mānoa
@@ -57,18 +56,22 @@
     - title: Assistant Professor
       institution: Department of Biology, University of Hawaiʻi at Mānoa
       year: 2012 - 2017
+      
+    - title: Postdoctoral Researcher
+      institution: Department of Ecology and Evolution, University of California, Davis
+      year: 2011
 
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2015
       items:
-        - University of Hawaii Regent’s Medal For Excellence in Research
+        - University of Hawaii Regent’s Medal For excellence in research
     - year: 2010
       items:
-        - UC Davis Merton Love Award for Outstanding Dissertation in Evolution and Ecology
+        - UC Davis Merton Love Award for outstanding dissertation in evolution and ecology
     - year: 2004
       items:
-        - Rochester Institute of Technology Baldwin Award for Outstanding Undergraduate in the Life Sciences
+        - Rochester Institute of Technology Baldwin Award for outstanding undergraduate in the life sciences
 
 

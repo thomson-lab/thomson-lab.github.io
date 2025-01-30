@@ -40,4 +40,4 @@ Preston Varley. UH Anthropology 2016\
 #### Visitors
 [Luke Mahler](https://mahlerlab.com). University of Toronto. Sabbatical visitor spring 2024.\
 [Jarrett Johnson](https://people.wku.edu/jarrett.johnson/index.html). Western Kentucky University. Sabbatical visitor spring 2018.\
-[Adrián Nieto Montes de Oca](https://scholar.google.com/citations?user=5s8SoI8AAAAJ&hl=en). National Autonomous University of Mexico. Sabbatical visitor 2015-2016.\
+[Adrián Nieto Montes de Oca](https://scholar.google.com/citations?user=5s8SoI8AAAAJ&hl=en). National Autonomous University of Mexico. Sabbatical visitor 2015-2016.

@@ -8,7 +8,7 @@ nav_order: 7
 ---
 
 #### Graduate Students
-The lab provides training in systematics and evolutionary biology for interested graduate students. Graduate research projects focus broadly on evolutionary biology, usually with a a strong emphasis on systematics and phylogenetics, phylogeography, and/or landscape genetics. Most of our work in these areas also has an organismal focus on amphibians and reptiles, but we have growing interests centered on several clades that are native to Hawaii, and have hosted trainees that have worked in diverse systems from viruses, to birds, to human languages.\
+The lab provides training in systematics and evolutionary biology for interested graduate students. Graduate research projects focus broadly on evolutionary biology, usually with a a strong emphasis on systematics and phylogenetics, phylogeography, and/or landscape genetics. Most of our work in these areas also has an organismal focus on amphibians and reptiles, but we have growing interests centered on several clades that are native to Hawaii, and have hosted trainees that have worked in diverse systems from viruses, to birds, to human languages.\\
 If you are interested in joining the lab, please contact Bob to talk about your research interests and graduate school at UH. Generally, we have many more interested applicants than we can possibly accommodate. Strong applicants typically have particular areas of interest and specific ideas for what they would like to pursue in graduate school. We also sometimes have opportunities to join existing projects, and are happy to discuss possibilities with interested applicants.
 
 #### Postdocs
