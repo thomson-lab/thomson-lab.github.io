@@ -10,7 +10,9 @@ nav_order: 3
 #### Karina Moreno (2023 - Present)
 * PhD student in Zoology, specializing in Ecology, Evolution, and Conservation Biology.
 * MS in Biological Sciences 2020. California State Polytechnic University, Pomona.
+
 ---
+
 #### Alumni
 ##### Postdocs
 Anthony Barley. Postdoctoral Researcher. Current position: Assistant Professor, Arizona State University - West Campus.\
