@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>thomsonr@hawaii.edu</p>
+    <p><a href="mailto:thomsonr@hawaii.edu">thomsonr@hawaii.edu</a></p>
     <p>808.956.6476</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
