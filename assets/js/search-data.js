@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-join-the-lab",
           title: "Join the Lab",
-          description: "",
+          description: "blank",
           section: "Navigation",
           handler: () => {
             window.location.href = "/join/";
