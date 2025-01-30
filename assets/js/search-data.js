@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-join-the-lab",
           title: "Join the Lab",
-          description: "blank",
+          description: "Information for prospective lab members",
           section: "Navigation",
           handler: () => {
             window.location.href = "/join/";
@@ -380,8 +380,8 @@ ninja.data = [{
           section: "News",},{id: "news-i-started-working-as-editor-in-chief-elect-for-systematic-biology",
           title: 'I started working as Editor-in-Chief Elect for Systematic Biology',
           description: "",
-          section: "News",},{id: "news-former-phd-student-val-alvarez-started-a-new-job-with-the-florida-fish-and-wildlife-conservation-commission",
-          title: 'Former PhD student Val Alvarez started a new job with the Florida Fish...',
+          section: "News",},{id: "news-recent-phd-graduate-val-alvarez-started-a-new-job-with-the-florida-fish-and-wildlife-conservation-commission",
+          title: 'Recent PhD graduate Val Alvarez started a new job with the Florida Fish...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
