@@ -10,7 +10,6 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p><a href="mailto:thomsonr@hawaii.edu">thomsonr@hawaii.edu</a></p>
-    <p>808.956.6476</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,9 +25,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a biologist working on Systematic Biology and Evolution in Honolulu. My research focuses on understanding phylogenetic history and biodiversity using computational and genomic tools. Much of this work focuses on amphibians and reptiles, as well as applied questions that focus on conservation biology.
+I am a biologist working on Systematic Biology and Evolution in Honolulu. My research focuses on understanding phylogenetic history and biodiversity using computational and genomic tools. Much of this work focuses on amphibians and reptiles, as well as applied conservation biology questions.
 
 * **Professor**, [School of Life Sciences](https://manoa.hawaii.edu/lifesciences)
-* **Editor-In-Chief Elect**, *Systematic Biology*
+* **Editor-In-Chief Elect**, [Systematic Biology](https://academic.oup.com/sysbio)
 * **Chair**, [Ecology, Evolution, and Conservation Biology](https://www.hawaii.edu/eecb) Graduate Program
 * **Research Associate** in Herpetology, [Natural History Museum of Los Angeles County](https://nhm.org/research-collections/departments/herpetology)
