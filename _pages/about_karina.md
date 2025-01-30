@@ -1,7 +1,7 @@
 ---
 layout: about
-title: Karina
-permalink: /
+title: Karina Moreno
+permalink: /karina/
 subtitle: PhD Student, <a href="https://manoa.hawaii.edu/lifesciences/">School of Life Sciences</a> at <a href="https://manoa.hawaii.edu">University of Hawaiʻi</a>
 
 profile:
