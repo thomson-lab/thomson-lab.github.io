@@ -8,6 +8,7 @@ nav_order: 3
 ---
 
 #### Karina Moreno (2023 - Present)
+* <a href="mailto:karinam@hawaii.edu">karinam@hawaii.edu</a>*
 * PhD student in Zoology, specializing in Ecology, Evolution, and Conservation Biology.
 * MS in Biological Sciences 2020. California State Polytechnic University, Pomona.
 

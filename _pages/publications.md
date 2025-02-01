@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 * Please see [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=_iKjkDUAAAAJ&view_op=list_works) for publications.
-* A free pdf copy of my book *California Amphibian and Reptile Species of Special Concern* is accessible at the CDFW website [here](https://wildlife.ca.gov/Conservation/SSC/Amphibians-Reptiles).
+* A pdf copy of my book *California Amphibian and Reptile Species of Special Concern* is accessible at the CDFW website [here](https://wildlife.ca.gov/Conservation/SSC/Amphibians-Reptiles).
 
 <div class="container">
   <div class="row d-flex align-items-stretch"> <!-- Ensures equal height columns -->
