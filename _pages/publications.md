@@ -15,18 +15,18 @@ nav_order: 4
       {% include figure.liquid path="assets/img/syst_biol_cover.jpg" title="Thomson et al. 2010" class="img-fluid z-depth-1 w-100 h-100 object-fit-cover" %}
     </div>
     <div class="col equal-height-col">
-      {% include figure.liquid path="assets/img/Toups_etal_cover.jpg" title="Toups et al. 2025" class="img-fluid z-depth-1 w-100 h-100 object-fit-cover" %}
+      {% include figure.liquid path="assets/img/m_sysbio_69_4cover.jpg" title="Campillo et al. 2020" class="img-fluid z-depth-1 w-100 h-100 object-fit-cover" %}
     </div>
     <div class="col equal-height-col">
-      {% include figure.liquid path="assets/img/m_sysbio_69_4cover.jpg" title="Campillo et al. 2020" class="img-fluid z-depth-1 w-100 h-100 object-fit-cover" %}
+      {% include figure.liquid path="assets/img/Toups_etal_cover.jpg" title="Toups et al. 2025" class="img-fluid z-depth-1 w-100 h-100 object-fit-cover" %}
     </div>
   </div>
   <div class="row">
     <div class="col">
-      {% include figure.liquid path="assets/img/oracle.jpg" title="Desert Oracle" class="img-fluid z-depth-1" %}
+      {% include figure.liquid path="assets/img/oracle.jpg" title="Desert Oracle" class="img-fluid z-depth-1 h-100 object-fit-cover" %}
     </div>
     <div class="col">
-      {% include figure.liquid path="assets/img/ARSSC.jpg" title="Thomson et al 2016" class="img-fluid z-depth-1" %}
+      {% include figure.liquid path="assets/img/ARSSC.jpg" title="Thomson et al 2016" class="img-fluid z-depth-1 h-100 object-fit-cover" %}
     </div>
   </div>
 </div>
