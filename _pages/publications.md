@@ -21,12 +21,16 @@ nav_order: 4
       {% include figure.liquid path="assets/img/Toups_etal_cover.jpg" title="Toups et al. 2025" class="img-fluid z-depth-1 w-100 h-100 object-fit-cover" %}
     </div>
   </div>
-  <div class="row">
-    <div class="col">
-      {% include figure.liquid path="assets/img/oracle.jpg" title="Desert Oracle" class="img-fluid z-depth-1 h-100 object-fit-cover" %}
+  <div class="row d-flex align-items-stretch"> <!-- Added flexbox alignment -->
+    <div class="col d-flex"> <!-- Forces equal column height -->
+      <div class="w-100 h-100"> 
+        {% include figure.liquid path="assets/img/oracle.jpg" title="Desert Oracle" class="img-fluid z-depth-1 w-100 h-100 object-fit-cover" %}
+      </div>
     </div>
-    <div class="col">
-      {% include figure.liquid path="assets/img/ARSSC.jpg" title="Thomson et al 2016" class="img-fluid z-depth-1 h-100 object-fit-cover" %}
+    <div class="col d-flex"> <!-- Forces equal column height -->
+      <div class="w-100 h-100">
+        {% include figure.liquid path="assets/img/ARSSC.jpg" title="Thomson et al 2016" class="img-fluid z-depth-1 w-100 h-100 object-fit-cover" %}
+      </div>
     </div>
   </div>
 </div>
