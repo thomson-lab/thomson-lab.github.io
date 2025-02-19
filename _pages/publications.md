@@ -9,41 +9,31 @@ nav_order: 4
 * Please see [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=_iKjkDUAAAAJ&view_op=list_works) for publications.
 * A pdf copy of my book *California Amphibian and Reptile Species of Special Concern* is accessible at the CDFW website [here](https://wildlife.ca.gov/Conservation/SSC/Amphibians-Reptiles).
 
-<style>
-  .equal-height-row {
-    display: flex;
-  }
-  .equal-height-row .col {
-    display: flex;
-    flex-direction: column;
-  }
-  .equal-height-row img {
-    height: 100%; /* Ensures both images are the same height */
-    width: 100%; /* Ensures responsiveness */
-    object-fit: cover;
-  }
-</style>
-
 <div class="container">
-  <div class="row d-flex align-items-stretch"> <!-- Ensures equal height columns -->
-    <div class="col equal-height-col">
-      {% include figure.liquid path="assets/img/syst_biol_cover.jpg" title="Thomson et al. 2010" class="img-fluid z-depth-1 w-100 h-100 object-fit-cover" %}
+  <div class="row d-flex align-items-stretch"> <!-- Ensures equal height columns in row 1 -->
+    <div class="col">
+      {% include figure.liquid path="assets/img/syst_biol_cover.jpg" title="Thomson et al. 2010" class="img-fluid z-depth-1 w-100 h-100" %}
     </div>
-    <div class="col equal-height-col">
-      {% include figure.liquid path="assets/img/m_sysbio_69_4cover.jpg" title="Campillo et al. 2020" class="img-fluid z-depth-1 w-100 h-100 object-fit-cover" %}
+    <div class="col">
+      {% include figure.liquid path="assets/img/m_sysbio_69_4cover.jpg" title="Campillo et al. 2020" class="img-fluid z-depth-1 w-100 h-100" %}
     </div>
-    <div class="col equal-height-col">
-      {% include figure.liquid path="assets/img/Toups_etal_cover.jpg" title="Toups et al. 2025" class="img-fluid z-depth-1 w-100 h-100 object-fit-cover" %}
+    <div class="col">
+      {% include figure.liquid path="assets/img/Toups_etal_cover.jpg" title="Toups et al. 2025" class="img-fluid z-depth-1 w-100 h-100" %}
     </div>
   </div>
-  
-  <div class="row equal-height-row"> <!-- Ensures equal height images -->
-    <div class="col">
-      {% include figure.liquid path="assets/img/oracle.jpg" title="Desert Oracle" class="img-fluid z-depth-1" %}
+
+  <div class="row d-flex align-items-stretch"> <!-- Key change: Forces equal height in row 2 -->
+    <div class="col h-100 d-flex flex-column">
+      <div class="h-100">
+        {% include figure.liquid path="assets/img/oracle.jpg" title="Desert Oracle" class="img-fluid z-depth-1 w-100 h-100" %}
+      </div>
     </div>
-    <div class="col">
-      {% include figure.liquid path="assets/img/ARSSC.jpg" title="Thomson et al 2016" class="img-fluid z-depth-1" %}
+    <div class="col h-100 d-flex flex-column">
+      <div class="h-100">
+        {% include figure.liquid path="assets/img/ARSSC.jpg" title="Thomson et al. 2016" class="img-fluid z-depth-1 w-100 h-100" %}
+      </div>
     </div>
   </div>
 </div>
+
 
