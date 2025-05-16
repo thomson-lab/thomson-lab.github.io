@@ -25,7 +25,7 @@ Graduate level working group on statistical methods in conservation biology. Top
 ##### ZOOL 691b Seminar in Speciation and Systematics
 Selected readings and discussions in Systematic Biology. 1 credit. Offered periodically.
 
-### International Workshops
+### Workshops
 ##### Introduction to Phylogenomics
 [2024 edition](https://www.transmittingscience.com/courses/evolution/introduction-to-phylogenomics/)\
 Theory and tools for phylogenetic inference in the era of genome sequencing. Course material will focus on statistical methods for phylogeny estimation, software implementing these methods, applications of these methods to large molecular datasets, and discuss trade-offs and tools for improving the accuracy of phylogenomic analyses. In hands-on practical sessions, participants will gain experience working with bioinformatic and statistical tools for analyzing large datasets. Offered 2019, 2020, 2024.
