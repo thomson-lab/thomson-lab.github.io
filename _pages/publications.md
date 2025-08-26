@@ -28,7 +28,7 @@ nav_order: 4
         {% include figure.liquid path="assets/img/oracle.jpg" title="Desert Oracle" class="img-fluid z-depth-1 w-100 h-100" %}
       </div>
       <div class="h-100">
-        {% include figure.liquid path="assets/img/oracle.jpg" title="Desert Oracle" class="img-fluid z-depth-1 w-100 h-100" %}
+        {% include figure.liquid path="assets/img/logo.png" title="Desert Oracle" class="img-fluid z-depth-1 w-100 h-100" %}
       </div>
     </div>
     <div class="col h-100 d-flex flex-column">
