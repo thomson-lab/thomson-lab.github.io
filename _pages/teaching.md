@@ -34,7 +34,7 @@ Theory and tools for phylogenetic inference in the era of genome sequencing. Cou
 Bodega Marine Laboratory, Bodega Bay, California. 2007-2015, 2017, 2019
 
 ##### Edwin D. Pauly Program Phylogenomics Workshop
-Hawaii Institute for Marine Biology, Kaneohe, Hawaii. 2013
+Hawaiʻi Institute for Marine Biology, Kaneohe, Hawaiʻi. 2013
 
 ##### High Performance Computing for Phylogenetics
 National Institute for Modeling Biological Systems, Knoxville, Tennessee. 2010

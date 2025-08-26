@@ -25,7 +25,7 @@ Luke Campillo. PhD 2022. after UH: postdoctoral researcher at USGS.\
 Caroline Dong. MS 2015. after UH: PhD at University of Melbourne, now Assistant Professor at Grinnell College.\
 Natalie Myers. MS 2023. after UH: Communications and Marketing Coordinator, [Pacific Birds](https://pacificbirds.org), Habitat Joint Venture.\
 Emilie Richards. MS 2016. after UH: PhD at University of California, Berkeley, postdoctoral researcher at Univ. of Minnesota.\
-Van Wishingrad. PhD 2021. after UH: Hawaii Institute of Marine Biology postdoctoral researcher.
+Van Wishingrad. PhD 2021. after UH: Hawaiʻi Institute of Marine Biology postdoctoral researcher.
 
 ##### Undergraduate Students
 Hana Blatter. UH Biology 2014\
