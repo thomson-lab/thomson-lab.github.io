@@ -18,4 +18,6 @@ We have no active postdoctoral searches happening at this time, but are happy to
 #### Undergraduate students
 Interested and highly motivated undergraduate students are welcome to take on independent or collaborative research projects. Please get in touch to discuss your interests.
 
-![Lab picnic at Waikīkī](assets/img/lab_at_waikiki.jpg)
+<div class="container">
+{% include figure.liquid path="assets/img/lab_at_waikiki.jpg" title="Lab picnic at Waikiki" class="img-fluid" %}
+</div>
