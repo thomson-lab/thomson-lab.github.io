@@ -7,6 +7,11 @@ nav: true
 nav_order: 3
 ---
 
+#### [Sandra Goutte](https://sgoutte.weebly.com) (2025 - Present)
+* <a href="mailto:sg5533@nyu.edu">sg5533@nyu.edu</a>
+* Research Associate.
+* PhD in Evolutionary Biology 2014. Muséum National d’Histoire Naturelle, Paris, France.
+
 #### Karina Moreno (2023 - Present)
 * <a href="mailto:karinam@hawaii.edu">karinam@hawaii.edu</a>
 * PhD student in Zoology, specializing in Ecology, Evolution, and Conservation Biology.
