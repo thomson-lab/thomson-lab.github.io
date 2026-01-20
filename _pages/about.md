@@ -28,6 +28,6 @@ latest_posts:
 I am a scientist working on Systematic Biology and Evolution in Honolulu. My research focuses on understanding phylogenetic history and biodiversity using computational and genomic tools. Much of this work focuses on amphibians and reptiles, as well as applied conservation biology questions.
 
 * **Professor**, [School of Life Sciences](https://manoa.hawaii.edu/lifesciences)
-* **Editor-In-Chief Elect**, [Systematic Biology](https://academic.oup.com/sysbio)
+* **Editor-In-Chief**, [Systematic Biology](https://academic.oup.com/sysbio)
 * **Chair**, [Ecology, Evolution, and Conservation Biology](https://www.hawaii.edu/eecb) Graduate Program
 * **Research Associate in Herpetology**, [Natural History Museum of Los Angeles County](https://nhm.org/research-collections/departments/herpetology)
