@@ -11,6 +11,9 @@ nav_order: 4
 ##### BIOL 470 Evolutionary Biology
 Process of evolution: genetic basis, natural selection, population genetics, speciation, the fossil record. Prequisites: BIOL 171 and 172. Recommended: a BIOL or ZOOL course at 300 or 400 level. Offered every fall semester. 3 credits. General Education: DB
 
+##### BIOL 454 Natural History of the Hawaiian Islands
+Geography, geology, climatology, biotic environment of Pacific Basin and Hawaiian Islands; endemism and evolution in terrestrial and marine biota. Prerequisite: one semester of biological sciences at college level. Offered Spring 2026. 3 Credits. General Education: DB, Focus: W (Cross-listed as SUST 450).
+
 ### Graduate Courses at UH
 ##### ZOOL 780 & 781 Foundations of Evolution and Ecology (I & II)
 ###### Co-instructors: Drs. Amber Wright and Rebecca Chong
