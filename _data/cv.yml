@@ -11,16 +11,12 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD in Population Biology
       institution: University of California, Davis
       year: 2010
-      description:
-        - Population Biology
-    - title: BS with High Honors
+    - title: BS with High Honors in Biology
       institution: Rochester Institute of Technology
       year: 2004
-      description:
-        - Biology
 
 - title: Experience
   type: time_table
