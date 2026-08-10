@@ -7,11 +7,6 @@ nav: true
 nav_order: 3
 ---
 
-#### [Sandra Goutte](https://sgoutte.weebly.com) (2025 - Present)
-* <a href="mailto:sg5533@nyu.edu">sg5533@nyu.edu</a>
-* Research Associate
-* PhD in Evolutionary Biology 2014. Muséum National d’Histoire Naturelle, Paris, France
-
 #### Karina Moreno (2023 - Present)
 * <a href="mailto:karinam@hawaii.edu">karinam@hawaii.edu</a>
 * PhD student in Zoology, specializing in Ecology, Evolution, and Conservation Biology
@@ -20,9 +15,13 @@ nav_order: 3
 ---
 
 #### Alumni
+
+##### Research Associate
+Sandra Goutte. Current Position: Associate Professor, Norwegian University of Science and Technology
+
 ##### Postdocs
-Anthony Barley. Postdoctoral Researcher. Current position: Assistant Professor, Arizona State University - West Campus\
-Sean Harrington. Postdoctoral Researcher. Current position: Research Scientist, University of Wyoming
+Anthony Barley. Current position: Assistant Professor, Arizona State University - West Campus\
+Sean Harrington. Current position: Research Scientist, University of Wyoming
 
 ##### Graduate Students
 Valentina Alvarez. PhD 2024. after UH: Florida Fish and Wildlife Conservation Commission\
