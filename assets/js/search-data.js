@@ -374,10 +374,7 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-my-three-year-term-as-editor-in-chief-at-systematic-biology-has-started-this-follows-a-first-year-of-handling-the-journal-s-new-submissions-as-editor-elect",
-          title: 'My three year term as Editor in Chief at Systematic Biology has started....',
-          description: "",
-          section: "News",},{id: "news-systematic-biology-volume-75-issue-1-is-now-out-please-see-our-special-collection-of-75th-anniversary-articles-that-will-be-appearing-throughout-the-year",
+    },{id: "news-systematic-biology-volume-75-issue-1-is-now-out-please-see-our-special-collection-of-75th-anniversary-articles-that-will-be-appearing-throughout-the-year",
           title: 'Systematic Biology Volume 75 Issue 1 is now out. Please see our special...',
           description: "",
           section: "News",},{id: "news-i-finished-a-six-year-term-as-chair-of-our-graduate-program-in-ecology-evolution-and-conservation-biology",
