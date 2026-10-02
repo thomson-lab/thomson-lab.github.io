@@ -17,11 +17,11 @@ nav_order: 3
 #### Alumni
 
 ##### Research Associate
-Sandra Goutte. Current Position: Associate Professor, Norwegian University of Science and Technology
+Sandra Goutte. 2025-2026. Current Position: Associate Professor, Norwegian University of Science and Technology
 
 ##### Postdocs
-Anthony Barley. Current position: Assistant Professor, Arizona State University - West Campus\
-Sean Harrington. Current position: Research Scientist, University of Wyoming
+Anthony Barley. 2014-2021. Current position: Assistant Professor, Arizona State University - West Campus\
+Sean Harrington. 2017-2019. Current position: Research Scientist, University of Wyoming
 
 ##### Graduate Students
 Valentina Alvarez. PhD 2024. after UH: Florida Fish and Wildlife Conservation Commission\
